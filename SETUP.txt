@@ -1,37 +1,37 @@
-KARLYGASH / PROFILE V2
+KARLYGASH / PROFILE V4 — ACTIVITY CARDS
 
-ONLY README.MD NEEDS TO CHANGE
-The existing assets/banner.png and assets/orbit.svg are reused.
-You do not need to move or upload your image files again.
+ONLY REPLACE README.MD
+Open https://github.com/a1ksh/a1ksh/blob/main/README.md and choose Edit.
+Replace the contents with this README.md, preview, then commit.
+Your existing assets/banner.png and assets/orbit.svg stay in place.
+No API key, deployment, workflow, or new repository folder is needed.
 
-1. Open https://github.com/a1ksh/a1ksh/blob/main/README.md
-2. Click the pencil (Edit this file).
-3. Replace the existing text with all of the text from this README.md.
-4. Preview the result, then commit the change.
+NEW SECTIONS
+04 / GitHub statistics: public activity statistics and contribution streaks.
+05 / Contribution history: a line chart of the last year's contributions.
+06 / Languages: code distribution across public repositories.
+The navigation at the top now includes an Activity link.
+All cards use the profile's charcoal, cyan, and amber palette.
 
-The full ZIP also includes the original assets in case you need them.
+UPDATING
+The README references live card URLs for username a1ksh.
+Numbers are not hard-coded. Services and GitHub's image proxy cache images,
+so updates may take time and are not guaranteed to appear instantly.
+Public card services can occasionally be unavailable or rate-limited.
+If a card fails, click its surrounding link to view the native GitHub profile.
+Private contributions may be omitted or counted differently by each service.
+Total contributions and total commits represent different metrics.
+The language card reflects repository code volume, not skill level.
 
-WHAT CHANGED
-- A clear English introduction using the supplied name Karlygash.
-- A specific Python, machine-learning, and computer-vision focus.
-- A toolkit badge section based on the linked project READMEs.
-- Four linked project cards with concrete feature summaries.
-- A collapsible list of additional repositories.
-- A compact visual hierarchy with matching cyan and amber accents.
+CHECKED DURING PREPARATION
+All four final card endpoints returned HTTP 200 and valid SVG with real
+a1ksh profile data. The activity-graph Vercel endpoint returned HTTP 402,
+so it was replaced with the working Profile Summary Cards contribution chart.
+No broken activity-graph endpoint is included in the README.
+The supplied preview PNG is a saved snapshot, not a live updating image.
+It does not need to be uploaded.
 
-The role in AgroSmart KZ is credited to Karlygash in that project's README.
-The ontology assessment project is described as a research scaffold,
-consistent with its README. No performance metrics, degrees, employers,
-contact details, or claims of complete reproducibility have been added.
-The first-person introduction is suggested profile copy for you to review.
-
-Toolkit badge images are served by Shields.io. The banner and planet
-remain local repository assets. GitHub controls the surrounding interface,
-visitor theme, pinned repositories, and contribution graph.
-
-Sources reviewed:
-https://github.com/a1ksh/AgroSmart-KZ/blob/main/README.md
-https://github.com/a1ksh/SmartQuiz-CV/blob/main/README.md
-https://github.com/a1ksh/movie-recommendation-system/blob/main/README.md
-https://github.com/a1ksh/ontology-fuzzy-assessment/blob/main/README.md
-https://shields.io/badges/static-badge
+SOURCES
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/DenverCoder1/github-readme-streak-stats
+https://github.com/vn7n24fzkq/github-profile-summary-cards

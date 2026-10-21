@@ -14,6 +14,8 @@
   &nbsp; / &nbsp;
   <a href="#toolkit">Toolkit</a>
   &nbsp; / &nbsp;
+  <a href="#github-statistics">Activity</a>
+  &nbsp; / &nbsp;
   <a href="https://github.com/a1ksh?tab=repositories">All repositories ↗</a>
 </p>
 
@@ -99,6 +101,38 @@ I enjoy connecting the pieces that turn an idea into a working prototype: data p
 - [Movie Recommendation System](https://github.com/a1ksh/movie-recommendation-system) — desktop movie discovery.
 
 </details>
+
+---
+
+<a name="github-statistics"></a>
+<h3>04 &nbsp; / &nbsp; GitHub statistics</h3>
+
+<p align="center">
+  <a href="https://github.com/a1ksh?tab=overview">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=a1ksh&amp;show_icons=true&amp;hide_rank=true&amp;card_width=495&amp;disable_animations=true&amp;bg_color=0d1117&amp;title_color=8cc8de&amp;text_color=c9d1d9&amp;icon_color=d8be94&amp;border_color=30363d&amp;custom_title=GitHub%20Statistics" alt="Karlygash's public GitHub statistics: stars, commits, pull requests, issues, and repositories contributed to" />
+  </a>
+  <a href="https://github.com/a1ksh?tab=overview">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=a1ksh&amp;background=0D1117&amp;border=30363D&amp;stroke=30363D&amp;ring=8CC8DE&amp;fire=D8BE94&amp;currStreakNum=E6EDF3&amp;sideNums=E6EDF3&amp;currStreakLabel=8CC8DE&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;timezone=Asia%2FQyzylorda" alt="Karlygash's total contributions, current streak, and longest contribution streak" />
+  </a>
+</p>
+
+<h3>05 &nbsp; / &nbsp; Contribution history</h3>
+
+<p align="center">
+  <a href="https://github.com/a1ksh?tab=overview">
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a1ksh&amp;name=Karlygash&amp;theme=github_dark&amp;bg_color=0d1117&amp;title_color=8cc8de&amp;text_color=c9d1d9&amp;border_color=30363d&amp;chart_color=8cc8de" alt="Karlygash's contribution history over the last year, with public repository and profile totals" />
+  </a>
+</p>
+
+<h3>06 &nbsp; / &nbsp; Languages across my repositories</h3>
+
+<p align="center">
+  <a href="https://github.com/a1ksh?tab=repositories">
+    <img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1ksh&amp;layout=compact&amp;langs_count=6&amp;card_width=495&amp;bg_color=0d1117&amp;title_color=8cc8de&amp;text_color=c9d1d9&amp;border_color=30363d&amp;hide_border=false" alt="Code distribution by language across Karlygash's public repositories" />
+  </a>
+</p>
+
+<p align="center"><sub>A snapshot of public repository code, rather than a measure of language proficiency.</sub></p>
 
 ---
 
