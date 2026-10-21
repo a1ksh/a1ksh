@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Karlygash <sup>✦</sup></h1>
 
 <p align="center">
-  <strong>Python applications · Machine learning · Computer vision</strong><br />
+  <strong>Python · Applied machine learning · Backend development</strong><br />
   <sub>Exploring how data and code can become useful tools.</sub>
 </p>
 
@@ -23,11 +23,11 @@
 
 <img align="right" src="assets/orbit.svg" width="135" alt="A small blue ringed planet" />
 
-I'm **Karlygash**, and I build Python applications that bring together data, machine learning, and practical interfaces.
+I'm **Karlygash**, a Python developer interested in applied machine learning and backend development.
 
-My projects explore **agricultural analytics**, **recommendation systems**, **computer vision**, and **educational tools**. In [AgroSmart KZ](https://github.com/a1ksh/AgroSmart-KZ), I contribute as an **ML Engineer & Backend Developer** on the Van Gogh team.
+My portfolio brings together **video analysis**, **Kazakh speech recognition**, **decision-support simulations**, and **career-development tools**. In team projects such as [Career Quest](https://github.com/a1ksh/Career-Quest) and [AgroSmart KZ](https://github.com/a1ksh/AgroSmart-KZ), I'm credited as an **ML Engineer & Backend Developer**.
 
-I'm interested in the whole path from a raw dataset to a working application: understanding the problem, building the logic, and making the result easier to use.
+I enjoy connecting the pieces that turn an idea into a working prototype: data processing, model inference, APIs, and interfaces people can explore.
 
 <br clear="all" />
 
@@ -36,54 +36,56 @@ I'm interested in the whole path from a raw dataset to a working application: un
 
 <p>
   <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&amp;logo=python&amp;logoColor=8CC8DE" alt="Python" />
-  <img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&amp;logo=numpy&amp;logoColor=8CC8DE" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&amp;logo=pandas&amp;logoColor=8CC8DE" alt="Pandas" />
-  <img src="https://img.shields.io/badge/OpenCV-161B22?style=for-the-badge&amp;logo=opencv&amp;logoColor=8CC8DE" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/FastAPI-161B22?style=for-the-badge&amp;logo=fastapi&amp;logoColor=8CC8DE" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-161B22?style=for-the-badge&amp;logo=flask&amp;logoColor=8CC8DE" alt="Flask" />
+  <img src="https://img.shields.io/badge/PyTorch-161B22?style=for-the-badge&amp;logo=pytorch&amp;logoColor=8CC8DE" alt="PyTorch" />
   <br />
   <img src="https://img.shields.io/badge/Streamlit-161B22?style=for-the-badge&amp;logo=streamlit&amp;logoColor=D8BE94" alt="Streamlit" />
   <img src="https://img.shields.io/badge/SQLite-161B22?style=for-the-badge&amp;logo=sqlite&amp;logoColor=D8BE94" alt="SQLite" />
-  <img src="https://img.shields.io/badge/XGBoost-161B22?style=for-the-badge" alt="XGBoost" />
-  <img src="https://img.shields.io/badge/Tkinter-161B22?style=for-the-badge" alt="Tkinter" />
+  <img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&amp;logo=numpy&amp;logoColor=D8BE94" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&amp;logo=pandas&amp;logoColor=D8BE94" alt="Pandas" />
 </p>
 
-<p><sub>Tools used across my projects — from data analysis and model building to dashboards and desktop interfaces.</sub></p>
+<p><sub>Technologies used across my individual and team projects — from data processing and model inference to APIs and dashboards.</sub></p>
 
 ---
 
 <a name="selected-projects"></a>
 <h3>03 &nbsp; / &nbsp; Selected projects</h3>
 
+<p><sub>A selection of individual and collaborative projects. Linked repositories include work hosted by teammates.</sub></p>
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <sub>01 / AGRICULTURAL ANALYTICS</sub>
-      <h3><a href="https://github.com/a1ksh/AgroSmart-KZ">🌾 AgroSmart KZ</a></h3>
-      <p>A team project exploring agricultural subsidy monitoring in Kazakhstan through anomaly detection, application scoring, and soil-based crop recommendations.</p>
-      <p><code>Python</code> <code>Streamlit</code> <code>XGBoost</code></p>
-      <a href="https://github.com/a1ksh/AgroSmart-KZ">Explore the project →</a>
+      <sub>01 / VIDEO INTELLIGENCE</sub>
+      <h3><a href="https://github.com/Mevinss/cashframe-lab">🎞️ CashFrame</a></h3>
+      <p>A local video-analysis prototype with asynchronous processing, analysis timelines, source-frame review, and report exports to support human review.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>PyTorch</code></p>
+      <a href="https://github.com/Mevinss/cashframe-lab">Explore the project →</a>
     </td>
     <td width="50%" valign="top">
-      <sub>02 / COMPUTER VISION</sub>
-      <h3><a href="https://github.com/a1ksh/SmartQuiz-CV">✋ SmartQuiz-CV</a></h3>
-      <p>An interactive quiz controlled by hand gestures. Players choose answers by showing fingers to the camera, with questions loaded from a SQLite database.</p>
-      <p><code>Python</code> <code>OpenCV</code> <code>MediaPipe</code></p>
-      <a href="https://github.com/a1ksh/SmartQuiz-CV">Explore the project →</a>
+      <sub>02 / DISPATCH SIMULATION</sub>
+      <h3><a href="https://github.com/albina0dali/Jibek_Joly">🚆 Jibek Joly</a></h3>
+      <p>A railway dispatch simulation with 3D/2D network views, conflict analysis, plan previews, and wagon optimization on synthetic demonstration data.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>OR-Tools</code></p>
+      <a href="https://github.com/albina0dali/Jibek_Joly">Explore the project →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <sub>03 / RECOMMENDATION SYSTEMS</sub>
-      <h3><a href="https://github.com/a1ksh/movie-recommendation-system">🎬 Movie Recommendation System</a></h3>
-      <p>A desktop movie discovery app with genre and mood filters, similarity-based suggestions, a personal watchlist, and cached movie posters.</p>
-      <p><code>Python</code> <code>Tkinter</code> <code>Pandas</code></p>
-      <a href="https://github.com/a1ksh/movie-recommendation-system">Explore the project →</a>
+      <sub>03 / KAZAKH SPEECH RECOGNITION</sub>
+      <h3><a href="https://github.com/Mevinss/Kazakh-Audio-Translator">🎙️ Kazakh Audio Translator</a></h3>
+      <p>A Kazakh speech-to-text web app for comparing Whisper models, evaluating WER/CER, reviewing timestamped transcripts, and saving transcription history.</p>
+      <p><code>Python</code> <code>Flask</code> <code>Whisper</code></p>
+      <a href="https://github.com/Mevinss/Kazakh-Audio-Translator">Explore the project →</a>
     </td>
     <td width="50%" valign="top">
-      <sub>04 / EDUCATIONAL RESEARCH</sub>
-      <h3><a href="https://github.com/a1ksh/ontology-fuzzy-assessment">🧩 Ontology–Fuzzy Assessment</a></h3>
-      <p>A research scaffold for assessing algebra knowledge using concept relationships and fuzzy logic, with implemented core methods for aggregation and learning-gap diagnosis.</p>
-      <p><code>Python</code> <code>Ontologies</code> <code>Fuzzy logic</code></p>
-      <a href="https://github.com/a1ksh/ontology-fuzzy-assessment">Explore the project →</a>
+      <sub>04 / CAREER DEVELOPMENT</sub>
+      <h3><a href="https://github.com/a1ksh/Career-Quest">🧭 Career Quest</a></h3>
+      <p>A career-development prototype that maps skill gaps to learning quests, explains rule-based recommendations, and tracks employee progress through an HR dashboard.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>React</code></p>
+      <a href="https://github.com/a1ksh/Career-Quest">Explore the project →</a>
     </td>
   </tr>
 </table>
@@ -91,10 +93,10 @@ I'm interested in the whole path from a raw dataset to a working application: un
 <details>
   <summary><strong>A few more things to explore ↗</strong></summary>
 
-- [KASE Stock Price Forecast](https://github.com/a1ksh/Kase-stock-price-forecast)
-- [Student Behavior Analysis](https://github.com/a1ksh/student-behavior-analysis)
-- [Data Analysis Report](https://github.com/a1ksh/data-analysis-report)
-- [Ontology Library](https://github.com/a1ksh/ontology-library)
+- [AgroSmart KZ](https://github.com/a1ksh/AgroSmart-KZ) — agricultural analytics and subsidy monitoring.
+- [Van Gogh](https://github.com/albina0dali/Van_Gogh) — subsidy application scoring, training pipelines, and an API.
+- [SmartQuiz-CV](https://github.com/a1ksh/SmartQuiz-CV) — a hand-gesture-controlled quiz.
+- [Movie Recommendation System](https://github.com/a1ksh/movie-recommendation-system) — desktop movie discovery.
 
 </details>
 
