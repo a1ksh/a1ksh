@@ -23,7 +23,7 @@
 
 <h3>01 &nbsp; / &nbsp; About me</h3>
 
-<img align="right" src="assets/orbit.svg" width="135" alt="A small blue ringed planet" />
+<img align="right" src="assets/code-blackhole.png" width="135" alt="Lines of code curving around a glowing black hole" />
 
 I'm **Karlygash**, a Python developer interested in applied machine learning and backend development.
 
