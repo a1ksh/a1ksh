@@ -1,0 +1,16 @@
+Design: a1ksh / Karlygash
+
+Banner created with the built-in ImageGen tool.
+The supplied screenshots were visual inspiration for the layout and mood;
+their personal information, logos, and screenshots were not copied.
+The small navigation badges and orbit illustration are original SVG assets.
+
+Final banner prompt:
+
+Use case: stylized-concept
+Asset type: finished GitHub profile README banner, panoramic 3:1 landscape.
+Primary request: Create an original atmospheric space banner for GitHub username a1ksh, combining the restrained monochrome dune landscape of a minimalist developer profile with the flowing luminous cosmic trails of a psychedelic space profile. Do not reproduce any screenshot UI.
+Scene: low rolling black dunes across the lower third, a slender luminous pale river meandering toward the horizon, deep charcoal star field. Above the horizon one elegant flowing nebula ribbon in muted cyan, indigo and a restrained touch of warm amber. Plenty of dark quiet negative space.
+Style: premium cinematic digital illustration, subtle film grain, elegant, calm, strong legibility, precise uncluttered composition.
+Text verbatim: "a1ksh" with small subtitle "curiosity / code / creation". Username in large elegant off-white monospace lettering centered in upper middle, subtitle below in small spaced monospace type. These are the only words.
+Constraints: artwork itself fills the image edge to edge; wide banner not a card or mockup; no GitHub logos, no interface, no frames, no watermarks, no extra text; all lettering well inside safe central 65 percent area.

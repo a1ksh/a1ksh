@@ -1,0 +1,35 @@
+A1KSH / GITHUB PROFILE STARTER
+
+1. Create a PUBLIC GitHub repository named exactly a1ksh under account a1ksh.
+   If a1ksh/a1ksh already exists, edit its existing README and add the assets.
+2. Upload README.md and the entire assets directory to the repository root.
+   Keep the structure below:
+
+   README.md
+   assets/
+     banner.png
+     orbit.svg
+     repositories.svg
+     inspiration.svg
+
+3. Commit the files. The README will appear on your profile automatically.
+4. Open your profile and pin your best 3–4 projects.
+
+The design uses a cinematic cosmic banner, small navigation badges,
+a ringed planet, and compact English text. It is designed around GitHub's
+dark theme; the surrounding GitHub interface uses each visitor's own theme.
+GitHub controls the page layout and the contribution graph.
+
+PERSONALIZATION
+The introduction uses the supplied name Karlygash and starter copy.
+Add your technical interests and current focus. Hidden comments in README.md
+mark where to add real technology badges and selected projects.
+No education, employer, programming stack, social accounts, project
+achievements, or activity statistics have been invented.
+
+Everything displayed by the README is included locally in assets/.
+There are no third-party badge or statistics image services to configure.
+SETUP.txt and DESIGN.txt do not need to be uploaded.
+
+Official instructions:
+https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
