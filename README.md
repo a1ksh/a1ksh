@@ -7,7 +7,7 @@
 <p align="center">
   <strong>Python · Applied machine learning · Backend development</strong><br />
   <sub>Exploring how data and code can become useful tools.</sub>
-</p>
+</p> 
 
 <p align="center">
   <a href="#selected-projects">Selected projects</a>
